@@ -1,16 +1,15 @@
 # hupfendes-DVD-Logo
-Ein "Virus" zum pranken
-
-Die Dateien heißen "windows manager.iwas" um das Leben der betroffenden Person etwas schwieriger zu machen.
-
-README.png ist auch sehr nützlich, wenn man verstehen will, wie das ganze hier funktioniert.
-WIP
-
-"main.py" ist der Quellcode für "windows manager.exe"
-  -> wurde mit "pyinstaller --onefile -w main.py" umgewandelt
-    -> das dadurch entstandene "main.exe" wurde danach zu "windows manager.exe" umgewandelt
-    -> es erscheint keine Python-Eingabeaufforderung
+(Schwarzen) DVD Logo das über den Bildschirm wandert.
 # Die Dateien erklären
 ## img.png
 Diese Datei enthält das DVD Logo und muss im gleichen Verzeichniss wie **main.py** oder **main.exe** sein und darf nicht umbenannt werden.
-##
+## lololololololol.cmd
+Wenn du den Inhalt nicht entziffern kannst benutz sie nicht.
+## main.exe
+Umgewadelte Python Datei (**main.py**).
+Wurde mit "pyinstaller --onefile -w main.py" umgewandelt.
+Es erscheint keine Eingabeaufforderung.
+## main.py
+Macht die ganze Magie.
+# ausführen
+Entweder **main.py** oder **main.exe** aufrufen, während **img.png** im gleichen Verzeichnis ist.
