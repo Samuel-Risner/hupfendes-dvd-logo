@@ -10,3 +10,7 @@ WIP
   -> wurde mit "pyinstaller --onefile -w main.py" umgewandelt
     -> das dadurch entstandene "main.exe" wurde danach zu "windows manager.exe" umgewandelt
     -> es erscheint keine Python-Eingabeaufforderung
+# Die Dateien erklären
+## img.png
+Diese Datei enthält das DVD Logo und muss im gleichen Verzeichniss wie **main.py** oder **main.exe** sein und darf nicht umbenannt werden.
+##
