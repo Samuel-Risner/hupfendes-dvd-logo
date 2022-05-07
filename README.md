@@ -1,5 +1,5 @@
 # hupfendes-DVD-Logo
-(Schwarzen) DVD Logo das über den Bildschirm wandert.
+(Schwarzes) DVD Logo das über den Bildschirm wandert.
 # Die Dateien erklären
 ## img.png
 Diese Datei enthält das DVD Logo und muss im gleichen Verzeichniss wie **main.py** oder **main.exe** sein und darf nicht umbenannt werden.
